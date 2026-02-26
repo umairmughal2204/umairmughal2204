@@ -1,64 +1,101 @@
-# ⚡ Muhammad Umair
+# Muhammad Umair  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Software Engineer  
 
-### 🚀 About Me
+---
 
-I am a **Software Engineer** and **IT Startup Founder** at **AuraDev**. [cite_start]I specialize in building scalable full-stack applications using the MERN stack and Next.js[cite: 12, 17]. [cite_start]Currently maintaining a **3.85 GPA** at **PUCIT (FCIT)**, I focus on bridging complex data processing with intuitive, user-centric interfaces[cite: 7, 8].
+## 🚀 About Me  
 
-**🔭 Current Work**
-* [cite_start]**ITSCoupons:** Intelligent enterprise platform managing **50,000+ records** with AI-based recommendations and bot detection[cite: 22, 25, 26].
-* [cite_start]**HAR Platform:** Web-based Human Activity Recognition leveraging LLMs and time-series sensor data[cite: 28, 29].
-* [cite_start]**AuraDev:** Architecting high-performance web and mobile solutions[cite: 16].
+I am a Software Engineer specializing in building scalable full-stack applications using the MERN stack and Next.js.  
 
-**🌱 Certified Expertise**
-* [cite_start]**Meta:** React Developer[cite: 42].
-* **Coursera:** Data Structures & Algorithms | [cite_start]Node.js & Express[cite: 42, 43].
-* [cite_start]**freeCodeCamp:** Full-Stack Web Development[cite: 42].
+Currently maintaining a **3.85 GPA at PUCIT (FCIT)**, I focus on designing and developing systems that bridge complex data processing with intuitive, user-centric interfaces.  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+My core interest lies in performance optimization, clean architecture, and intelligent system design — ensuring every solution is scalable, secure, and production-ready.
 
-### 🛠️ Technical Skills
+---
 
-**Languages & Core**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 🔭 Current Work  
 
-**Frontend & Design**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+- **ITSCoupons** – Intelligent enterprise coupon platform managing 50,000+ records, featuring AI-based recommendations and automated bot detection.  
+- **Human Activity Recognition Platform** – Web-based system leveraging LLMs and time-series sensor data for activity prediction.  
+- Building high-performance full-stack web applications using modern scalable architectures.
 
-**Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🌱 Certifications  
 
-### 📊 GitHub Ecosystem
+- Meta – React Developer Certification  
+- Coursera – Data Structures & Algorithms  
+- Coursera – Node.js & Express  
+- freeCodeCamp – Full-Stack Web Development  
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairmughal2204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairmughal2204&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🛠️ Technical Skills  
 
-### 🧩 Developer.json
+### Languages & Core Concepts  
+- JavaScript / TypeScript  
+- Python / C++ / PHP  
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+
+### Frontend  
+- Next.js (App Router)  
+- React.js  
+- Tailwind CSS  
+- Shadcn/UI  
+- HTML5 / CSS3  
+
+### Backend  
+- Node.js / Express.js  
+- Laravel (PHP)  
+- MongoDB / SQL  
+- REST API Development  
+- Authentication & Authorization Systems  
+- AI/ML Integration (Scikit-learn)  
+
+### DevOps & Tools  
+- Git & GitHub  
+- CI/CD  
+- Docker  
+- Nginx  
+- Postman  
+- VPS Deployment  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairmughal2204&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairmughal2204&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧩 Developer Profile  
 
 ```javascript
 {
   "name": "Muhammad Umair",
-  "role": "Software Engineer & Founder @ AuraDev",
+  "role": "Software Engineer",
   "education": "BSIT @ PUCIT | GPA: 3.85",
-  "focus": ["Full-Stack Engineering", "Scalable Systems", "AI/ML Integration"],
+  "focus": [
+    "Full-Stack Engineering",
+    "Scalable System Design",
+    "AI/ML Integration",
+    "Automation"
+  ],
+  "current_project": "ITSCoupons – Enterprise Scalable Architecture",
   "philosophy": "Performance and clean architecture are requirements, not features."
 }
+```
+
+---
+
+## 📫 Connect  
+
+- LinkedIn: www.linkedin.com/in/muhammad-umair-324854261)  
+- GitHub: https://github.com/umairmughal2204  
+- Email:m.umairmanzor@gmail.com  
+
+---
